@@ -1,0 +1,46 @@
+title: Kiran Mohammadi-Williams
+description: "A personal portfolio"
+logo_img: "/assets/img/logo.png"
+profile_img: "/assets/img/profile_pic.png"
+
+# Social Links
+email: kyran.a.williams@gmail.com
+github_username: kam535
+
+
+# If your repo name follows the format "<user-name>.github.io", then leave the below blank.
+# Otherwise, set its value as "/<repo-name>". ex) baseurl: /myblog
+baseurl: ''
+
+# Build settings
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-loading-lazy
+  - backlinks_generator
+
+exclude:
+  - docs/
+
+
+collections:
+  pages:
+    output: true
+    permalink: /:path.html
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+
+
+    values:
+      layout: "page"
+      date: "1900-01-01"
+
+# Markdown newline activator 
+kramdown:
+  input: GFM
+  hard_wrap: true
