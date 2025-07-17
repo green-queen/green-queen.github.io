@@ -45,8 +45,8 @@ thumbnail: "/assets/img/thumbnail/sample.png"
         <img src="https://kam535.github.io/assets/img/hijabi-librarians.png" alt="site homepage screenshot" width="600" height="400">
       </a>
     <div class="div-title">Hijabi Librarians</div>
-    <div class="div-desc">A collective and website dedicated to highlighting and evaluating Muslim representation in children's and young adult literature.</
-</div>
+    <div class="div-desc">A collective and website dedicated to highlighting and evaluating Muslim representation in children's and young adult literature.</div>
+      
 </div>
   
 
