@@ -39,6 +39,7 @@ thumbnail: "/assets/img/thumbnail/sample.png"
       </a>
     <div class="div-title">Exploring the Domestic Enslaved: Pompeii</div>
     <div class="div-desc">A public history-oriented Google Site, centred on the archaeological and artistic evidence of the presence of enslaved individuals in shops, houses, and villas in Pompeii and Herculaneum.</div>
+</div>
       
 <div class="div-item">
       <a target="_blank" href="https://hijabilibrarians.org/">
@@ -46,7 +47,8 @@ thumbnail: "/assets/img/thumbnail/sample.png"
       </a>
     <div class="div-title">Hijabi Librarians</div>
     <div class="div-desc">A collective and website dedicated to highlighting and evaluating Muslim representation in children's and young adult literature.</div>
-      
+</div>
+
 </div>
   
 
