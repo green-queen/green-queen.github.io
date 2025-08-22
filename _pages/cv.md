@@ -48,7 +48,8 @@ bookmark: true
 
 ## Education
 <hr>
-
+* **Ph.D. in Medieval Studies**
+Cornell University • 2025-present
 * **Master's of Science in Library & Information Science**
 University of Illinois at Urbana-Champaign • 2023
 * **Bachelor's of Arts in Art History and Classical Civilization**
