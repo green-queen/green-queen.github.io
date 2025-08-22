@@ -9,16 +9,16 @@ thumbnail: "/assets/img/thumbnail/sample.png"
 <hr>
 <div class="div-gallery">
 <div class="div-item">
-      <a target="_blank" href="https://kam535.github.io/waxbuilder/">
-        <img src="https://kam535.github.io/assets/img/waxbuilder.png" alt="WaxBuilder screenshot" width="600" height="400">
+      <a target="_blank" href="https://green-queen.github.io/waxbuilder/">
+        <img src="https://green-queen.github.io/assets/img/waxbuilder.png" alt="WaxBuilder screenshot" width="600" height="400">
       </a>
     <div class="div-title"> WaxBuilder </div>
     <div class="div-desc">An open-source exhibit tool built on the shell of Wax, a minimal, static site-builder for digital collections.</div>
   </div>
 
   <div class="div-item">
-      <a target="_blank" href="https://kam535.github.io/wax-documentation/">
-        <img src="https://kam535.github.io/assets/img/wax-docs.png" alt="Wax Docs + screenshot" width="600" height="400">
+      <a target="_blank" href="https://green-queen.github.io/wax-documentation/">
+        <img src="https://green-queen.github.io/assets/img/wax-docs.png" alt="Wax Docs + screenshot" width="600" height="400">
       </a>
     <div class="div-title">Wax Docs +</div>
     <div class="div-desc">Extended, clearer documentation for the static-site exhibit tool Wax, geared towards folks with less technical know-how.</div>
@@ -26,7 +26,7 @@ thumbnail: "/assets/img/thumbnail/sample.png"
 
   <div class="div-item">
       <a target="_blank" href="https://cornell-colab.github.io/hist2391/">
-        <img src="https://kam535.github.io/assets/img/hist2391-site.png" alt="HIST2931 site screenshot" width="600" height="400">
+        <img src="https://green-queen.github.io/assets/img/hist2391-site.png" alt="HIST2931 site screenshot" width="600" height="400">
       </a>
     <div class="div-title">From Terra Incognita to Territories of Nation-States Digitized Maps Collection</div>
     <div class="div-desc">An online exhibit of the maps digitized and made IIIF compatible for the Cornell undergraduate course HIST 2391.</div>
@@ -35,7 +35,7 @@ thumbnail: "/assets/img/thumbnail/sample.png"
 
 <div class="div-item">
       <a target="_blank" href="https://sites.google.com/oberlin.edu/domestic-slavery-pompeii/home">
-        <img src="https://kam535.github.io/assets/img/pompeii.png" alt="Google Site screenshot" width="600" height="400">
+        <img src="https://green-queen.github.io/assets/img/pompeii.png" alt="Google Site screenshot" width="600" height="400">
       </a>
     <div class="div-title">Exploring the Domestic Enslaved: Pompeii</div>
     <div class="div-desc">A public history-oriented Google Site, centred on the archaeological and artistic evidence of the presence of enslaved individuals in shops, houses, and villas in Pompeii and Herculaneum.</div>
@@ -43,7 +43,7 @@ thumbnail: "/assets/img/thumbnail/sample.png"
       
 <div class="div-item">
       <a target="_blank" href="https://hijabilibrarians.org/">
-        <img src="https://kam535.github.io/assets/img/hijabi-librarians.png" alt="site homepage screenshot" width="600" height="400">
+        <img src="https://green-queen.github.io/assets/img/hijabi-librarians.png" alt="site homepage screenshot" width="600" height="400">
       </a>
     <div class="div-title">Hijabi Librarians</div>
     <div class="div-desc">A collective and website dedicated to highlighting and evaluating Muslim representation in children's and young adult literature.</div>
