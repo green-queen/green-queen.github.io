@@ -41,7 +41,7 @@ bookmark: true
 
 <div class="container">
   <img src="https://i.redd.it/qieveg5m49z91.gif" alt="Snow" style="width:100%">
-  <a href="">
+  <a href="https://youtu.be/dQw4w9WgXcQ?si=2NEoJ1nZxocQfi6f">
     <button class="btn">View and/or download my full CV here</button>
   </a>
 </div>
