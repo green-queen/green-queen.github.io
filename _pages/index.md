@@ -11,7 +11,7 @@ layout: page
 <div class="welcome-div">
   
 <h1>Kiran Mohammadi-Williams</h1>
-Librarian • Medievalist • Book lover • Viridiphile
+Librarian • Art Historian • Book Lover • Viridiphile
 
 </div>
 
