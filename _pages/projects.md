@@ -52,9 +52,24 @@ thumbnail: "/assets/img/thumbnail/sample.png"
 </div>
   
 
-## Publications
+## Publications & Conference Papers
 <hr>
-
+<div class="div-gallery">
+  <div class="div-item">
+      <a target="_blank" href="https://uwaterloo.ca/digital-pedagogy-institute/sites/ca.digital-pedagogy-institute/files/uploads/files/2025_dpi_full_schedule_with_abstracts_08_11_25_0.pdf/">
+        <img src="" alt="Cover of a 19th century pamphlet with cameo of woman surrounded by grapes and vines" width="600" height="400">
+      </a>
+    <div class="div-title">Reclaiming the Digital: Centering Black Voices in DH Instruction</div>
+    <div class="div-desc">Digital Pedagogy Institute, 08/11/2025</div>
+  </div>   
+<div class="div-gallery">
+  <div class="div-item">
+      <a target="_blank" href="">
+        <img src="" width="600" height="400">
+      </a>
+    <div class="div-title">Mystery in Majesty: The Liturgical Potential of the Chormantel and Great Mantle of Empress Cunegunde</div>
+    <div class="div-desc">Sacred Arts, London Arts-Based Research Center, 05/12/2025</div>
+  </div>   
 <div class="div-gallery">
   <div class="div-item">
       <a target="_blank" href="https://scholarworks.wmich.edu/medieval_cong_archive/60/">
