@@ -62,7 +62,6 @@ thumbnail: "/assets/img/thumbnail/sample.png"
     <div class="div-title">Reclaiming the Digital: Centering Black Voices in DH Instruction</div>
     <div class="div-desc">Digital Pedagogy Institute, 08/11/2025</div>
   </div>   
-<div class="div-gallery">
   <div class="div-item">
       <a target="_blank" href="">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Chormantel_Kunigunde%2C_Di%C3%B6zesanmuseum_Bamberg.jpg/2560px-Chormantel_Kunigunde%2C_Di%C3%B6zesanmuseum_Bamberg.jpg" width="600" height="400">
@@ -70,7 +69,6 @@ thumbnail: "/assets/img/thumbnail/sample.png"
     <div class="div-title">Mystery in Majesty: The Liturgical Potential of the Chormantel and Great Mantle of Empress Cunegunde</div>
     <div class="div-desc">Sacred Arts, London Arts-Based Research Center, 05/12/2025</div>
   </div>   
-<div class="div-gallery">
   <div class="div-item">
       <a target="_blank" href="https://scholarworks.wmich.edu/medieval_cong_archive/60/">
         <img src="https://files.wmich.edu/s3fs-public/2024-08/icms60_event_header1.png" alt="Cover of a 19th century pamphlet with cameo of woman surrounded by grapes and vines" width="600" height="400">
@@ -85,7 +83,6 @@ thumbnail: "/assets/img/thumbnail/sample.png"
     <div class="div-title"> Processing Personalities: Ephemera Research at the AA/PG Library </div>
     <div class="div-desc">Smithsonian Libraries and Archives Unbound, 09/06/2023</div>
   </div>
-
   <div class="div-item">
       <a target="_blank" href="https://oberlinost.wordpress.com/2023/03/02/race-and-the-medieval-consciousness-perspectives-on-st-maurice/#:~:text=Maurice%3A%20he%20appeared%20in%20the,accepted%20by%20medieval%20Christians%20for">
         <img src="https://cdn.shopify.com/s/files/1/0296/7067/0384/t/47/assets/800px-magdeburger_dom_cathedral_47619280472-1681309981396.jpg?v=1681309982" alt="Wax Docs + screenshot" width="600" height="400">
@@ -93,7 +90,6 @@ thumbnail: "/assets/img/thumbnail/sample.png"
     <div class="div-title">Race and the Medieval Consciousness: Perspectives on St. Maurice</div>
     <div class="div-desc">On Second Thought, Fall 2022</div>
   </div>
-
   <div class="div-item">
       <a target="_blank" href="https://mackseyjournal.scholasticahq.com/article/28009-the-wand-chooses-the-wizard-distinctions-of-greco-roman-staffs-rods-and-wands-in-ritual-and-myth">
         <img src="https://s3.amazonaws.com/production.scholastica/article/28009/large/watercolors_large_2.jpg?1630513038" alt="Blue and purple watercolour background" width="600" height="400">
