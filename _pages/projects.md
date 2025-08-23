@@ -57,6 +57,13 @@ thumbnail: "/assets/img/thumbnail/sample.png"
 
 <div class="div-gallery">
   <div class="div-item">
+      <a target="_blank" href="https://scholarworks.wmich.edu/medieval_cong_archive/60/">
+        <img src="https://files.wmich.edu/s3fs-public/2024-08/icms60_event_header1.png" alt="Cover of a 19th century pamphlet with cameo of woman surrounded by grapes and vines" width="600" height="400">
+      </a>
+    <div class="div-title">The medievalists' shades of St. Maurice: racial descriptors across disciplines</div>
+    <div class="div-desc">Intersectional Onomastics, 60th International Congress on Medieval Studies, 05/11/2025</div>
+  </div>    
+  <div class="div-item">
       <a target="_blank" href="https://blog.library.si.edu/blog/2023/09/06/processing-personalities-ephemera-research-at-the-aa-pg-library/">
         <img src="https://blog.library.si.edu/wp-content/uploads/2023/08/Williams-2-1.jpg" alt="Cover of a 19th century pamphlet with cameo of woman surrounded by grapes and vines" width="600" height="400">
       </a>
@@ -79,3 +86,4 @@ thumbnail: "/assets/img/thumbnail/sample.png"
     <div class="div-title">The Wand Chooses the Wizard: Distinctions of Greco-Roman Staffs, Rods, and Wands in Ritual and Myth</div>
     <div class="div-desc">The Macksey Journal, 2 (1), 09/13/2021</div>
   </div>
+
