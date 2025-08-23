@@ -61,7 +61,14 @@ thumbnail: "/assets/img/thumbnail/sample.png"
       </a>
     <div class="div-title">Reclaiming the Digital: Centering Black Voices in DH Instruction</div>
     <div class="div-desc">Digital Pedagogy Institute, 08/11/2025</div>
-  </div>   
+  </div>
+<div class="div-item">
+      <a target="_blank" href="https://digitalcommons.lmu.edu/pocinlis/2025/schedule/22/">
+        <img src="https://digitalcommons.lmu.edu/assets/md5images/07be97542e662c354765cf4cefbf4266.png" alt="Cover of a 19th century pamphlet with cameo of woman surrounded by grapes and vines" width="600" height="400">
+      </a>
+    <div class="div-title">Teaching Black Digital Humanities: Making Space in the Age of Big Tech </div>
+    <div class="div-desc">People of Color in Library and Information Science Summit, 07/25/2025</div>
+  </div>
   <div class="div-item">
       <a target="_blank" href="">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Chormantel_Kunigunde%2C_Di%C3%B6zesanmuseum_Bamberg.jpg/2560px-Chormantel_Kunigunde%2C_Di%C3%B6zesanmuseum_Bamberg.jpg" width="600" height="400">
