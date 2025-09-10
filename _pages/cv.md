@@ -91,4 +91,12 @@ Oberlin College • Oberlin, OH • 05/2021-12/2022
 * **Metcalf Honor**
 * **Laurine Mack Bongiorno Prize**
 
-
+## Professional Memberships
+* The Association for Computer Humanities, 2025-present
+* The Association of Dress Historians, 2025-present
+* DISTAFF (Discussion, Interpretation, and Study of Textile Arts, Fabrics, and Fashion), 2025-present
+* International Center of Medieval Art, 2024-present
+* Digital Medievalist, 2024-present
+* Research Data Alliance, 2024-present
+* we here, 2024-present
+* Medievalists of Color, 2023-present
