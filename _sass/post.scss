@@ -12,17 +12,19 @@
 
 .div-item {
   margin: 5px;
-  float: left;
   border: 1px solid transparent;
   font-family:'Space Grotesk', sans-serif;
   text-align:center;
   flex: 0 1 30%;
   display:grid;
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  border-radius: 10px;
+  margin-bottom: 0rem;
 }
 
 .div-title {
-  padding: 5px;
+  margin: 2rem;
+  margin-bottom: 2rem;
   text-align:center;
   font-family:'Caveat', sans-serif;
   font-weight: bold;
@@ -35,9 +37,9 @@
 
 .div-item img {
   width: 100%;
-  height:auto;
-  text-align:center;
-  object-fit:cover;
+  height: auto;
+  text-align: center;
+  object-fit: cover;
 }
 
 .div-desc {
