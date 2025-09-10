@@ -92,6 +92,7 @@ Oberlin College • Oberlin, OH • 05/2021-12/2022
 * **Laurine Mack Bongiorno Prize**
 
 ## Professional Memberships
+<hr>
 * The Association for Computer Humanities, 2025-present
 * The Association of Dress Historians, 2025-present
 * DISTAFF (Discussion, Interpretation, and Study of Textile Arts, Fabrics, and Fashion), 2025-present
