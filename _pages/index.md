@@ -5,12 +5,13 @@ layout: page
 <style>
   .welcome-div {
   font-family:'Caveat', sans-serif;
-  text-align:center;
+  text-align:center
+  }
 
   li {
     padding: 0px;
     margin-left: 5px;
-}
+  }
 </style>
 <div class="welcome-div">
   
