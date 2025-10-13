@@ -27,7 +27,7 @@ Hello, and welcome to the personal portfolio of Kiran Mohammadi-Williams (she/he
 
 I'm also an art historian, studying the iconography of clerical vestments from the Latin West (particularly Germany and England) ca. 1250-1400 and their performance and relationship to the human body, sensorial experience, and liturgical performance. I'm an avid knitter, embroiderer, reader, and cat parent to a seven-year-old Torbie named Camilla, who hates all other cats. I'm also a proud hijabi and a native and ardent New Jerseyan. You won't find any photos of me on this site, but feel free to imagine the crotchety old cat lady of your dreams and you're probably close.
 
- <div class="card" style="width: 80%">
+ <div class="card" style="width: 100%">
     <div class="head">Why I Do What I Do</div>
     <div class="content">
         <li>A deep love of stories; about people, places, things, times, and everything in between
