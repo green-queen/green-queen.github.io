@@ -57,7 +57,7 @@ This site was created using a modified version of <a href="https://github.com/by
 </div>
 
 <div class="card-gallery">
-  <div class="card" style="height:auto; width:45%;">
+  <div class="card" style="height:520px; width:48%;">
     <div class="head">Research Interests</div>
     <div class="content">
        <ul>
@@ -76,7 +76,7 @@ This site was created using a modified version of <a href="https://github.com/by
       <br />
     </div>
   </div>
-  <div class="card" style="height:auto; width:45%;">
+  <div class="card" style="height:520px; width:48%;">
     <div class="head">Personal Interests</div>
     <div class="content">
         <ul>
