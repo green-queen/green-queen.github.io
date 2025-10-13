@@ -19,7 +19,9 @@ main {
     <div class="content">
        An open-source exhibit tool built on the shell of Wax, a minimal, static site-builder for digital collections.
       <br />
-      <button class="button" href="https://green-queen.github.io">Click me!</button>
+      <a href="https://green-queen.github.io">
+        <button class="button">Click me!</button>
+      <a>
     </div>
   </div>
   <div class="card">
