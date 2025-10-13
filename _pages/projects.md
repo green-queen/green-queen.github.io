@@ -11,6 +11,20 @@ main {
 }
 </style>
 
+ <div class="card" style="width: 100%">
+    <div class="head">Why I Do What I Do</div>
+    <div class="content" style= "padding: 0px 0px 0px 8px;" >
+        <li>A deep love of stories; about people, places, things, times, and everything in between
+        <li>To write stories and help others write stories
+        <li>To read, analyse, and share stories 
+        <li>All-consuming curiosity; a desire to learn every day
+        <li>A passion for creating, engineering, and experimenting with building things and systems
+        <li>To soothe an organizational mind; to organize and arrange things in ways that "make sense"
+        <li>To do research; digging deep and forming connections between pieces of information
+      <br />
+    </div>
+  </div>
+  
 ## Projects
 <hr>
 <div class="card-gallery">
