@@ -83,13 +83,13 @@ Oberlin College • Oberlin, OH • 05/2021-12/2022
 <hr>
 
 * **Newberry Library Center for Renaissance Studies Consortium Grant**
-* **Victoria Proctor Powell Florence Scholarship**
-* **Carl Dipman Alumni Fellowship**
-* **Katherine L. Sharp Scholarship**
-* **Norma D. Swearingen Memorial Prize**
-* **Friends of the Libraries Research Award**
-* **Metcalf Honor**
-* **Laurine Mack Bongiorno Prize**
+* Victoria Proctor Powell Florence Scholarship
+* Carl Dipman Alumni Fellowship
+* Katherine L. Sharp Scholarship
+* Norma D. Swearingen Memorial Prize
+* Friends of the Libraries Research Award
+* Metcalf Honor
+* Laurine Mack Bongiorno Prize
 
 ## Professional Memberships
 <hr>
