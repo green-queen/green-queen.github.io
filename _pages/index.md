@@ -36,21 +36,6 @@ Hello, and welcome to the site of Kiran Mohammadi-Williams (she/hers). I'm a lib
 
 I'm an avid knitter, embroiderer, reader, and cat parent to a seven-year-old Torbie named Camilla, who hates all other cats. I'm also a proud hijabi and a native and ardent New Jerseyan. You won't find any photos of me on this site, but feel free to imagine the crotchety old cat lady of your dreams and you're probably close.
 
-
-<div class="card" style="height:350px; width:100%;">
-    <div class="head">Why I Do What I Do</div>
-    <div class="content" style= "padding: 0px 0px 0px 8px">
-        <li>A deep love of stories; about people, places, things, times, and everything in between</li>
-        <li>To write stories and help others write stories</li>
-        <li>To read, analyse, and share stories</li>
-        <li>All-consuming curiosity; a desire to learn every day</li>
-        <li>A passion for creating, engineering, and experimenting with building things and systems</li>
-        <li>To soothe an organizational mind; to organize and arrange things in ways that "make sense"</li>
-        <li>To do research; digging deep and forming connections between pieces of information</li>
-      <br />
-    </div>
-</div>
-
 <div class="card-gallery">
   <div class="card" style="height:520px; width:48%;">
     <div class="head">Research Interests</div>
@@ -91,6 +76,20 @@ I'm an avid knitter, embroiderer, reader, and cat parent to a seven-year-old Tor
       <br />
     </div>
   </div>
+</div>
+
+<div class="card" style="height:350px; width:100%;">
+    <div class="head">Why I Do What I Do</div>
+    <div class="content" style= "padding: 0px 0px 0px 8px">
+        <li>A deep love of stories; about people, places, things, times, and everything in between</li>
+        <li>To write stories and help others write stories</li>
+        <li>To read, analyse, and share stories</li>
+        <li>All-consuming curiosity; a desire to learn every day</li>
+        <li>A passion for creating, engineering, and experimenting with building things and systems</li>
+        <li>To soothe an organizational mind; to organize and arrange things in ways that "make sense"</li>
+        <li>To do research; digging deep and forming connections between pieces of information</li>
+      <br />
+    </div>
 </div>
 
 <hr>
