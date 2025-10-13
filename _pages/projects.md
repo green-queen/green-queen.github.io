@@ -18,7 +18,8 @@ main {
     <div class="head">Window</div>
     <div class="content">
       <img src="https://green-queen.github.io/assets/img/waxbuilder.png" alt="WaxBuilder screenshot" width="50%" height="50%">
-        An open-source exhibit tool built on the shell of Wax, a minimal, static site-builder for digital collections.
+      <br />
+       An open-source exhibit tool built on the shell of Wax, a minimal, static site-builder for digital collections.
       <br />
       <button class="button">Click me!</button>
     </div>
