@@ -21,7 +21,7 @@ main {
       <br />
       <a href="https://green-queen.github.io">
         <button class="button">Click me!</button>
-      <a>
+      </a>
     </div>
   </div>
   <div class="card">
