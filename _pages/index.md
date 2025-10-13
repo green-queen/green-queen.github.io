@@ -36,11 +36,6 @@ Hello, and welcome to the site of Kiran Mohammadi-Williams (she/hers). I'm a lib
 
 I'm an avid knitter, embroiderer, reader, and cat parent to a seven-year-old Torbie named Camilla, who hates all other cats. I'm also a proud hijabi and a native and ardent New Jerseyan. You won't find any photos of me on this site, but feel free to imagine the crotchety old cat lady of your dreams and you're probably close.
 
-<hr>
-This site was created using a modified version of <a href="https://github.com/byanko55/jekyll-theme-satellite">byanko55's jekyll-theme-satellite</a>. This site also embraces intentionlly non-modern, imperfect, and joyful aesthetics, in contrast with how web-building seems to have developed in recent years. For more thoughts on this, read [My personal soapbox on the web](https://kam535.github.io/garden/web-soapbox.html). The site is built with the static site generator [Jekyll](https://jekyllrb.com) and follows principles of [minimal computing](https://go-dh.github.io/mincomp/about/).
-
-<hr>
-
 
 <div class="card" style="height:350px; width:100%;">
     <div class="head">Why I Do What I Do</div>
@@ -97,3 +92,6 @@ This site was created using a modified version of <a href="https://github.com/by
     </div>
   </div>
 </div>
+
+<hr>
+This site was created using a modified version of <a href="https://github.com/byanko55/jekyll-theme-satellite">byanko55's jekyll-theme-satellite</a>. This site also embraces intentionlly non-modern, imperfect, and joyful aesthetics, in contrast with how web-building seems to have developed in recent years. For more thoughts on this, read [My personal soapbox on the web](https://kam535.github.io/garden/web-soapbox.html). The site is built with the static site generator [Jekyll](https://jekyllrb.com) and follows principles of [minimal computing](https://go-dh.github.io/mincomp/about/).
