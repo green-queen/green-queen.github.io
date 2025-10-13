@@ -34,7 +34,7 @@ I'm also an art historian, studying the iconography of clerical vestments from t
 
  <div class="card" style="width: 100%">
     <div class="head">Why I Do What I Do</div>
-    <div class="content">
+    <div class="content" style= "padding: 0px 0px 0px 8px;" >
         <li>A deep love of stories; about people, places, things, times, and everything in between
         <li>To write stories and help others write stories
         <li>To read, analyse, and share stories 
