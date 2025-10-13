@@ -7,13 +7,55 @@ thumbnail: "/assets/img/thumbnail/sample.png"
 
 ## Projects
 <hr>
-<div class="card">
-  <div class="head">Window</div>
-  <div class="content">
-    This is a neobrutalist-style window with a button and space for any content
-    you want!
-    <br />
-    <button class="button">Button</button>
+<div class="card-gallery">
+  <div class="card">
+    <div class="head">Window</div>
+    <div class="content">
+      This is a neobrutalist-style window with a button and space for any content
+      you want!
+      <br />
+      <button class="button">Button</button>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="head">Window</div>
+    <div class="content">
+      This is a neobrutalist-style window with a button and space for any content
+      you want!
+      <br />
+      <button class="button">Button</button>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="head">Window</div>
+    <div class="content">
+      This is a neobrutalist-style window with a button and space for any content
+      you want!
+      <br />
+      <button class="button">Button</button>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="head">Window</div>
+    <div class="content">
+      This is a neobrutalist-style window with a button and space for any content
+      you want!
+      <br />
+      <button class="button">Button</button>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="head">Window</div>
+    <div class="content">
+      This is a neobrutalist-style window with a button and space for any content
+      you want!
+      <br />
+      <button class="button">Button</button>
+    </div>
   </div>
 </div>
 <!--
