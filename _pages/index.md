@@ -15,6 +15,7 @@ layout: page
 
   main ul {
     background: inherit;
+  }
 </style>
 <div class="welcome-div">
   
