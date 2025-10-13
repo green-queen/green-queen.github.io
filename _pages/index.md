@@ -36,8 +36,10 @@ Hello, and welcome to the site of Kiran Mohammadi-Williams (she/hers). I'm a lib
 
 I'm an avid knitter, embroiderer, reader, and cat parent to a seven-year-old Torbie named Camilla, who hates all other cats. I'm also a proud hijabi and a native and ardent New Jerseyan. You won't find any photos of me on this site, but feel free to imagine the crotchety old cat lady of your dreams and you're probably close.
 
+<hr>
+
 <div class="card-gallery">
-  <div class="card" style="height:520px; width:48%;">
+  <div class="card" style="height:520px; width:46%;">
     <div class="head">Research Interests</div>
     <div class="content">
        <ul>
@@ -56,7 +58,7 @@ I'm an avid knitter, embroiderer, reader, and cat parent to a seven-year-old Tor
       <br />
     </div>
   </div>
-  <div class="card" style="height:520px; width:48%;">
+  <div class="card" style="height:520px; width:46%;">
     <div class="head">Personal Interests</div>
     <div class="content">
         <ul>
