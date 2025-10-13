@@ -5,7 +5,7 @@
 
 .card {
   font-family: 'Space Grotesk', sans-serif;
-  width: 300px;
+  width: 30%;
   height: 250px;
   translate: -6px -6px;
   background: #ff66a3;
@@ -15,6 +15,13 @@
   transition: all 0.3s ease;
 }
 
+.card-gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  gap: 20px;
+}
+  
 .head {
   font-family: 'Space Grotesk', sans-serif;
   font-size: 14px;
