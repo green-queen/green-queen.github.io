@@ -41,13 +41,55 @@ This site was created using a modified version of <a href="https://github.com/by
 <div class="card" style="width: 100%">
     <div class="head">Why I Do What I Do</div>
     <div class="content" style= "padding: 0px 0px 0px 8px">
-        <li>A deep love of stories; about people, places, things, times, and everything in between
-        <li>To write stories and help others write stories
-        <li>To read, analyse, and share stories 
-        <li>All-consuming curiosity; a desire to learn every day
-        <li>A passion for creating, engineering, and experimenting with building things and systems
-        <li>To soothe an organizational mind; to organize and arrange things in ways that "make sense"
-        <li>To do research; digging deep and forming connections between pieces of information
+        <li>A deep love of stories; about people, places, things, times, and everything in between</li>
+        <li>To write stories and help others write stories</li>
+        <li>To read, analyse, and share stories</li>
+        <li>All-consuming curiosity; a desire to learn every day</li>
+        <li>A passion for creating, engineering, and experimenting with building things and systems</li>
+        <li>To soothe an organizational mind; to organize and arrange things in ways that "make sense"</li>
+        <li>To do research; digging deep and forming connections between pieces of information</li>
       <br />
     </div>
+</div>
+
+<div class="card-gallery">
+  <div class="card">
+    <div class="head">Research Interests</div>
+    <div class="content">
+       <ul>
+           <li>Medieval England</li>
+           <li>Medieval Western Christian liturgy</li>
+           <li>Liturgical vestments in the Latin West</li>
+           <li>Opus anglicanum</li>
+           <li>Minimal computing</li>
+           <li>Public-facing digital scholarship</li>
+           <li>Computational analysis for images</li>
+           <li>Ancient, medieval, and Victorian textile history</li>
+           <li>Nineteenth-century Black history</li>
+           <li>Medievalisms</li>
+           <li>Roman art</li>
+       </ul>
+      <br />
+    </div>
+  </div>
+  <div class="card">
+    <div class="head">Personal Interests</div>
+    <div class="content">
+        <ul>
+           <li>Cats</li>
+           <li>Books (except sci-fi and romance)</li>
+           <li>Books about cats</li>
+           <li>Books about books</li>
+           <li>Knitting</li>
+           <li>Needlework</li>
+           <li>Historical fashion</li>
+           <li>Hand sewing</li>
+           <li>Eating Gardetto's</li>
+           <li>Flowers</li>
+           <li>Tea</li>
+           <li>Cozy minimalism</li>
+       </ul>
+      <br />
+    </div>
+  </div>
 </div>
