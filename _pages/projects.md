@@ -11,7 +11,7 @@ main {
 }
 </style>
 
- <div class="card" style="width: 100%">
+<div class="card" style="width: 100%">
     <div class="head">Why I Do What I Do</div>
     <div class="content" style= "padding: 0px 0px 0px 8px;" >
         <li>A deep love of stories; about people, places, things, times, and everything in between
@@ -23,7 +23,7 @@ main {
         <li>To do research; digging deep and forming connections between pieces of information
       <br />
     </div>
-  </div>
+</div>
   
 ## Projects
 <hr>
