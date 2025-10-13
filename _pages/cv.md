@@ -36,13 +36,6 @@ bookmark: true
 }
 </style>
 
-<div class="container">
-  <img src="https://i.redd.it/qieveg5m49z91.gif" alt="Snow" style="width:100%">
-  <a href="https://www.youtube.com/watch?v=2qBlE2-WL60&list=RD2qBlE2-WL60&start_radio=1">
-    <button class="btn">View and/or download my full CV here</button>
-  </a>
-</div>
-
 ## Education
 <hr>
 * **Ph.D. in Medieval Studies**
@@ -98,3 +91,10 @@ Oberlin College • Oberlin, OH • 05/2021-12/2022
 * Research Data Alliance, 2024-present
 * we here, 2024-present
 * Medievalists of Color, 2023-present
+
+<div class="container">
+  <img src="https://i.redd.it/qieveg5m49z91.gif" alt="Snow" style="width:100%">
+  <a href="https://www.youtube.com/watch?v=2qBlE2-WL60&list=RD2qBlE2-WL60&start_radio=1">
+    <button class="btn">View and/or download my full CV here</button>
+  </a>
+</div>
