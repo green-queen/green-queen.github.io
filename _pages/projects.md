@@ -17,10 +17,11 @@ main {
   <div class="card">
     <div class="head">Window</div>
     <div class="content">
-      This is a neobrutalist-style window with a button and space for any content
-      you want!
+      <img src="https://green-queen.github.io/assets/img/waxbuilder.png" alt="WaxBuilder screenshot" width="600" height="400">
+        <h2>WaxBuilder</h2>
+        <p>An open-source exhibit tool built on the shell of Wax, a minimal, static site-builder for digital collections.</p>
       <br />
-      <button class="button">Button</button>
+      <button class="button">Click me!</button>
     </div>
   </div>
 
@@ -30,7 +31,7 @@ main {
       This is a neobrutalist-style window with a button and space for any content
       you want!
       <br />
-      <button class="button">Button</button>
+      <button class="button">Click me!</button>
     </div>
   </div>
 
@@ -40,7 +41,7 @@ main {
       This is a neobrutalist-style window with a button and space for any content
       you want!
       <br />
-      <button class="button">Button</button>
+      <button class="button">Click me!</button>
     </div>
   </div>
 
@@ -50,7 +51,7 @@ main {
       This is a neobrutalist-style window with a button and space for any content
       you want!
       <br />
-      <button class="button">Button</button>
+      <button class="button">Click me!</button>
     </div>
   </div>
 
@@ -60,7 +61,7 @@ main {
       This is a neobrutalist-style window with a button and space for any content
       you want!
       <br />
-      <button class="button">Button</button>
+      <button class="button">Click me!</button>
     </div>
   </div>
 </div>
