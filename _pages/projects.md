@@ -33,7 +33,7 @@ main {
   <div class="card">
     <div class="head">From Terra Incognita to Territories of Nation-States Digitized Maps Collection</div>
     <div class="content">
-      A site to hold the maps digitized and made IIIF compatible for the Cornell undergraduate course HIST 2391.
+      A site to hold the digitzed, IIIF-compatible maps for the Cornell course HIST 2391.
       <br />
       <button class="button">Click me!</button>
     </div>
@@ -41,7 +41,7 @@ main {
   <div class="card">
     <div class="head">Exploring the Domestic Enslaved: Pompeii</div>
     <div class="content">
-      A public history-oriented Google Site, centred on the archaeological and artistic evidence of the presence of enslaved individuals in shops, houses, and villas in Pompeii and Herculaneum.
+      A public history-oriented research site, centred on the archaeological and artistic evidence for enslaved individuals in Pompeii and Herculaneum.
       <br />
       <button class="button">Click me!</button>
     </div>
