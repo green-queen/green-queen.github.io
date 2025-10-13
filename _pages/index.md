@@ -39,7 +39,7 @@ I'm an avid knitter, embroiderer, reader, and cat parent to a seven-year-old Tor
 <hr>
 
 <div class="card-gallery">
-  <div class="card" style="height:520px; width:46%;">
+  <div class="card" style="height:520px; width:46%; padding: 0px;">
     <div class="head">Research Interests</div>
     <div class="content">
        <ul>
@@ -58,7 +58,7 @@ I'm an avid knitter, embroiderer, reader, and cat parent to a seven-year-old Tor
       <br />
     </div>
   </div>
-  <div class="card" style="height:520px; width:46%;">
+  <div class="card" style="height:520px; width:46%; padding:0px;">
     <div class="head">Personal Interests</div>
     <div class="content">
         <ul>
