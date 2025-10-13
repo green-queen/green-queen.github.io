@@ -8,7 +8,7 @@ layout: page
   text-align:center
   }
 
-  li {
+  main li {
     padding: 0px 0;
     margin-left: 5px;
   }
