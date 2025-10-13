@@ -52,7 +52,6 @@ main {
       <a href="https://sites.google.com/oberlin.edu/domestic-slavery-pompeii/home">
         <button class="button">Click me!</button>
       </a>
-      <button class="button">Click me!</button>
     </div>
   </div>
   <div class="card">
