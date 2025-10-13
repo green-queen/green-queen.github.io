@@ -4,6 +4,14 @@ bookmark: true
 layout: page
 thumbnail: "/assets/img/thumbnail/sample.png"
 ---
+<style>
+  @media (min-width: 769px) {
+    {
+    main {
+      font-size: 14px;
+    }
+  }
+</style>
 
 ## Projects
 <hr>
