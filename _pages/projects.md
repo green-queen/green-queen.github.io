@@ -100,6 +100,16 @@ main {
       <br />
     </div>
   </div>
+ <div class="card">
+    <div class="head">Using IIIF to Teach Basic Web Literacy</div>
+    <div class="content">
+      IIIF Online Meeting 2024, 11/12/2024
+      <br />
+        <a href="https://youtu.be/aGncZ3P-jBw?si=iB1ncCpcjRlIzv9S">
+          <button class="button">Click me!</button>
+        </a>
+    </div>
+  </div>
   <div class="card">
     <div class="head">Processing Personalities: Ephemera Research at the AA/PG Library</div>
     <div class="content">
