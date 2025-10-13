@@ -9,7 +9,7 @@ layout: page
   }
 
   li {
-    padding: 0px;
+    padding: 0px 0;
     margin-left: 5px;
   }
 </style>
