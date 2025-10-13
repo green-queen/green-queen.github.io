@@ -32,7 +32,7 @@ Librarian • Art Historian • Book Lover • Viridiphile
   
 </div>
 
-Hello, and welcome to the site of Kiran Mohammadi-Williams (she/hers). I'm a library professional, and have been working in libraries and museum (GLAM) spaces since 2021. I'm also a medieval art historian, researching the iconography of clerical vestments from the Latin West (particularly Germany and England) ca. 1250-1400 and their performance and relationship to the human body, sensorial experience, and liturgical performance. I'm excited and challenged when I have the opportunity to explore the intersections of art and information!
+Hello, and welcome to the site of Kiran Mohammadi-Williams (she/hers). I'm a library professional, and have been working in libraries and museum (GLAM) spaces since 2021. I'm also a medieval art historian, researching the iconography of clerical vestments from the Latin West (particularly Germany and England) ca. 1250-1400 and their performance and relationship to the human body, sensorial experience, and liturgy. I'm excited and challenged when I have the opportunity to explore the intersections of art and information!
 
 I'm an avid knitter, embroiderer, reader, and cat parent to a seven-year-old Torbie named Camilla, who hates all other cats. I'm also a proud hijabi and a native and ardent New Jerseyan. You won't find any photos of me on this site, but feel free to imagine the crotchety old cat lady of your dreams and you're probably close.
 
