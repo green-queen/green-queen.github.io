@@ -82,7 +82,7 @@ Oberlin College • Oberlin, OH • 05/2021-12/2022
 ## Select Awards & Scholarships
 <hr>
 
-* **Newberry Library Center for Renaissance Studies Consortium Grant**
+* Newberry Library Center for Renaissance Studies Consortium Grant
 * Victoria Proctor Powell Florence Scholarship
 * Carl Dipman Alumni Fellowship
 * Katherine L. Sharp Scholarship
