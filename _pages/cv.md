@@ -3,9 +3,6 @@ title: "Abridged Curriculum Vitae"
 thumbnail: "/assets/img/thumbnail/sample.png"
 bookmark: true
 ---
-# Kiran A. Mohammadi-Williams
-<hr>
-
 <style>
 .container {
   position: relative;
