@@ -14,7 +14,6 @@ layout: page
   }
 
   main ul {
-    margin-bottom: 0rem;
     background: inherit;
 </style>
 <div class="welcome-div">
