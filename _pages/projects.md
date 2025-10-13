@@ -5,6 +5,12 @@ layout: page
 thumbnail: "/assets/img/thumbnail/sample.png"
 ---
 
+<style>
+main {
+    font-size: 14px;
+}
+</style>
+
 ## Projects
 <hr>
 <div class="card-gallery">
