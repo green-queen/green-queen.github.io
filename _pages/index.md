@@ -10,7 +10,7 @@ layout: page
 
   main li {
     padding: 0px 0;
-    margin-left: 5px;
+    margin-left: 15px;
   }
 </style>
 <div class="welcome-div">
