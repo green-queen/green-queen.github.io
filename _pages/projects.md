@@ -42,7 +42,7 @@ main {
   </div>
   <div class="card">
     <div class="head">Exploring the Domestic Enslaved: Pompeii</div>
-    <div class="content">
+    <div class="content" style="font-size: 14px;">
       A public history-oriented research site, centred on the archaeological and artistic evidence for enslaved individuals in Pompeii and Herculaneum.
       <br />
       <button class="button">Click me!</button>
