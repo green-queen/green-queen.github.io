@@ -43,19 +43,20 @@ I'm an avid knitter, embroiderer, reader, and cat parent to a seven-year-old Tor
     <div class="head">Research Interests</div>
     <div class="content">
        <ul>
+           <li>The Syon Cope</li>
            <li>Medieval England</li>
-           <li>Medieval Western Christian liturgy</li>
            <li>Liturgical vestments in the Latin West</li>
+           <li>Liturgical performance in the Latin West</li>
            <li>Opus anglicanum</li>
            <li>Minimal computing</li>
            <li>Public-facing digital scholarship</li>
            <li>Computational analysis for images</li>
-           <li>Ancient, medieval, and Victorian textile history</li>
+           <li>Ancient, medieval, and Victorian dress history</li>
            <li>Nineteenth-century Black history</li>
            <li>Medievalisms</li>
            <li>Roman art</li>
        </ul>
-      <br />
+      <br/>
     </div>
   </div>
   <div class="card" style="height:520px; width:46%; padding:0px;">
