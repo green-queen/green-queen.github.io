@@ -84,7 +84,7 @@ I'm an avid knitter, embroiderer, reader, and cat parent to a seven-year-old Tor
 
 <div class="card" style="height:350px; width:100%;">
     <div class="head">Why I Do What I Do</div>
-    <div class="content" style= "padding: 0px 0px 0px 8px">
+    <div class="content" style= "padding: 0px 0px 0px 20px">
         <li>A deep love of stories; about people, places, things, times, and everything in between</li>
         <li>To write stories and help others write stories</li>
         <li>To read, analyse, and share stories</li>
