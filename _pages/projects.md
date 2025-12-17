@@ -144,12 +144,10 @@ main {
 ## Current Research
 <div class="card" style="height:350px; width:100%;">
     <div class="head">Things I'm Exploring</div>
-    <div class="content" style= "padding: 0px 0px 0px 8px">
+    <div class="content" style= "padding: 0px 0px 0px 60px">
         <li>Durandus' four exegtical modes</li>
         <li>The iconography of the Syon Cope</li>
-        <li>Gender and class in 17th-century English embroidered devotional books</li>
         <li>The scientific and material properties of silk</li>
-        <li>The symbolic resonances of the mulberry tree in medieval England</li>
       <br/>
     </div>
 </div>
