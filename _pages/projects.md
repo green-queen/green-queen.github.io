@@ -142,7 +142,7 @@ main {
 </div>
 
 ## Current Research
-<div class="card" style="height:350px; width:100%;">
+<div class="card" style="height:100px; width:100%;">
     <div class="head">Things I'm Exploring</div>
     <div class="content" style= "padding: 0px 0px 0px 60px">
         <li>Durandus' four exegtical modes</li>
