@@ -59,9 +59,9 @@ I'm an avid knitter, embroiderer, reader, and cat parent to a seven-year-old Tor
       <br/>
     </div>
   </div>
-  <div class="card" style="height:520px; width:46%; padding:0px;">
+  <div class="card" style="height:520px; width:46%;">
     <div class="head">Personal Interests</div>
-    <div class="content">
+    <div class="content" style="padding:0px">
         <ul>
            <li>Cats</li>
            <li>Books</li>
