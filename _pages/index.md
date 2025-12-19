@@ -64,7 +64,7 @@ I'm an avid knitter, embroiderer, reader, and cat parent to a seven-year-old Tor
     <div class="content">
         <ul>
            <li>Cats</li>
-           <li>Books (except sci-fi and romance)</li>
+           <li>Books</li>
            <li>Books about cats</li>
            <li>Books about books</li>
            <li>Knitting</li>
@@ -72,7 +72,7 @@ I'm an avid knitter, embroiderer, reader, and cat parent to a seven-year-old Tor
            <li>Historical fashion</li>
            <li>Hand sewing</li>
            <li>Eating Gardetto's</li>
-           <li>Flowers</li>
+           <li>Sunflowers</li>
            <li>Tea</li>
            <li>Cozy minimalism</li>
        </ul>
