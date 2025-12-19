@@ -51,7 +51,7 @@ I'm an avid knitter, embroiderer, reader, and cat parent to a seven-year-old Tor
            <li>Minimal computing</li>
            <li>Public-facing digital scholarship</li>
            <li>Computational analysis for images</li>
-           <li>Ancient, medieval, and Victorian dress history</li>
+           <li>Dress and textile history</li>
            <li>Nineteenth-century Black history</li>
            <li>Medievalisms</li>
            <li>Roman art</li>
