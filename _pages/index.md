@@ -45,8 +45,7 @@ I'm an avid knitter, embroiderer, reader, and cat parent to a seven-year-old Tor
        <ul>
            <li>The Syon Cope</li>
            <li>Medieval England</li>
-           <li>Liturgical vestments in the Latin West</li>
-           <li>Liturgy in the Latin West</li>
+           <li>Liturgical vestments</li>
            <li>Opus anglicanum</li>
            <li>Embodiment and bodies in the Middle Ages</li>
            <li>Minimal computing</li>
