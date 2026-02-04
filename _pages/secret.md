@@ -1,6 +1,5 @@
 ---
-title: ""
-bookmark: true
+title:
 layout: page
 thumbnail: "/assets/img/thumbnail/sample.png"
 permalink: secret.html
