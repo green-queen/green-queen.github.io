@@ -7,4 +7,4 @@ permalink: secret.html
 ---
 
 
-<img width="220" height="153" alt="image" src="/assets/img/maxwell-cat.gif" />
+<img width="500" height="400" alt="image" src="/assets/img/maxwell-cat.gif" />
