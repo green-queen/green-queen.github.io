@@ -143,11 +143,22 @@ main {
 
 ## Current Research
 <div class="card" style="height:200px; width:100%;">
-    <div class="head">Things I'm Exploring</div>
+    <div class="head">Things I'm Researching</div>
     <div class="content" style= "padding: 0px 0px 0px 60px">
         <li>Durandus' four exegtical modes</li>
         <li>The iconography of the Syon Cope</li>
         <li>The scientific and material properties of silk</li>
+      <br/>
+    </div>
+</div>
+
+## Paper Projects
+<div class="card" style="height:200px; width:100%;">
+    <div class="head">Things I'm Exploring</div>
+    <div class="content" style= "padding: 0px 0px 0px 60px">
+        <li>Vestiarian change/conflict and sanctified bodies in Elizabethan England</li>
+        <li>Ragwomen, paper, and domestic embroidered bookbindings in 17th-century England</li>
+        <li>Symbolic resonances of the mulberry tree in 12th-14th century England</li>
       <br/>
     </div>
 </div>
