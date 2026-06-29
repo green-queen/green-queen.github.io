@@ -63,7 +63,7 @@ ul {
 
 .home-body {
   margin: 0px;
-  overflow: hidden;
+  overflow: auto;
   background:#0d042b;
   position: relative;
 }
@@ -202,7 +202,7 @@ nav {
   opacity: 0.8;
   animation: twinkle 3s infinite ease-in-out;
   background-image: url(/assets/eight-point-star.png);
-  background-size:cover;
+  background-size: cover;
 }
 
 .polka-dot {
