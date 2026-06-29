@@ -53,6 +53,7 @@ ul {
   text-align:center;
   margin-left: 30px;
   margin-right:30px;
+  overflow: auto;
  }
 
 .work-body {
@@ -60,6 +61,7 @@ ul {
   text-align:center;
   margin-left: 30px;
   margin-right:30px;
+  overflow: auto;
  }
 
 .home-body {
