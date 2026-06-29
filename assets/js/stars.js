@@ -6,7 +6,7 @@ function createStars() {
     star.classList.add('star');
 
     // Random size, position, and animation duration for each star
-    const size = Math.random() * 3 + 1;
+    const size = Math.random() * 10 + 1;
     star.style.width = `${size}px`;
     star.style.height = `${size}px`;
     star.style.left = `${Math.random() * 100}vw`;
