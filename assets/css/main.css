@@ -201,7 +201,7 @@ nav {
   border-radius: 50%;
   opacity: 0.8;
   animation: twinkle 3s infinite ease-in-out;
-  background-image: url("assets/eight-point-star.png");
+  background-image: url("eight-point-star.png");
   background-size: cover;
 }
 
