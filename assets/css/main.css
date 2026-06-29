@@ -124,6 +124,7 @@ nav {
 
 .nav-item a {
   color: white;
+  text-decoration:none;
 }
 
 .nav-image {
