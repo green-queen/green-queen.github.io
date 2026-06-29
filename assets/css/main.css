@@ -95,6 +95,8 @@ nav {
   margin-top: 10px;
   border-radius: 10px;
   text-align: center;
+  display: flex;
+  justify-content:center;
 }
 
 .nav-logo {
@@ -125,7 +127,7 @@ nav {
 .nav-image {
   display: inline-block;
   text-decoration: none;
-  padding: 14px 16px;
+  padding: 7px 8px;
   border-radius: 10px;
   margin: 4px;
 }
